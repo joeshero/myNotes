@@ -204,12 +204,7 @@ body{font-size: 16px; color: #34495E; font-family: "Source Sans Pro","Helvetica 
 	/* .s-header{position: static;} */
 	footer{position: static; line-height: 40px;}
 	
-	/* 手机端不显示广告，和一些其它东西 */
-	.wwads-cn,.p-none{display:none!important}
 }
-
-/* 手机端不显示广告，和一些其它东西 */
-/* @media (max-width: 576px) {.wwads-cn,.p-none{display:none!important}} */
 
 
 
